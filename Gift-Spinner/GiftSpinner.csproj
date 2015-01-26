@@ -7,8 +7,8 @@
     <ProjectGuid>{9A21F988-5704-4D0F-894F-12C026199AA0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GiftPicker</RootNamespace>
-    <AssemblyName>GiftPicker</AssemblyName>
+    <RootNamespace>GiftSpinner</RootNamespace>
+    <AssemblyName>Gift-Spinner</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -63,6 +63,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
